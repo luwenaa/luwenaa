@@ -1,7 +1,7 @@
  ᡣ𐭩 heyy! my name’s wendy 🌙🪷
 
 a computer science student living & studing in the uk ☁️
-currently trying to beat the learning curve and master full stack development 🖥️
+currently trying to beat the learning curve and master full stack development  🖥️
 
 working on building web projects 💫, exploring frameworks ✨, while contributing to open source projects 🌸 
 
