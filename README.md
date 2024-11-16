@@ -1,7 +1,7 @@
  ᡣ𐭩 heyy! my name’s wendy 🌙🪷
 
 a computer science student living & studing in the uk ☁️
-currently trying to beat the learning curve and master full stack development🖥️
+currently trying to beat the learning curve and master full stack development 🖥️
 
 working on building web projects💫, exploring frameworks ✨ while contributing to open source projects 🌸 
 
@@ -15,7 +15,7 @@ outside of tech: cozy gamer 🎧 → self-care enthusiast 🧖🏾‍♀️ → 
 feel free to connect with me! :)
 
 [![Static Badge](https://img.shields.io/badge/linkedin-8d1f1e?style=for-the-badge&logo=linkedin&logoColor=FFE3F3&color=DE8CB6)](https://www.linkedin.com/in/wendyonyi/) [![Static Badge](https://img.shields.io/badge/reddit-8d1f1e?style=for-the-badge&logo=reddit&logoColor=EFCBEE&color=CC92CB)
-](https://www.reddit.com/user/luwenaa/) [![Static Badge](https://img.shields.io/badge/twitter-8d1f1e?style=for-the-badge&logo=x&logoColor=EFC0D7&color=DD99BB)
+](https://www.reddit.com/user/luwenaa/)  [![Static Badge](https://img.shields.io/badge/twitter-8d1f1e?style=for-the-badge&logo=x&logoColor=EFC0D7&color=DD99BB)
 ](https://x.com)
 
 
