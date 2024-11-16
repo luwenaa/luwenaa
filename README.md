@@ -16,7 +16,8 @@ feel free to connect with me! :)
 
 connect! :
 
-![Static Badge](https://img.shields.io/badge/linkedin-8d1f1e?style=for-the-badge&logo=linkedin&logoColor=FFE3F3&color=D29CC0&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwendy-o-bab748338%2F)
+![Static Badge](https://img.shields.io/badge/linkedin-8d1f1e?style=for-the-badge&logo=linkedin&logoColor=FFE3F3&color=DE8CB6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwendy-o-bab748338%2F)
+
 
 
 
