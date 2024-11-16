@@ -14,7 +14,8 @@ outside of tech: cozy gamer 🎧 → self-care enthusiast 🧖🏾‍♀️ → 
 
 feel free to connect with me! :)
 
-![Static Badge](https://img.shields.io/badge/linkedin-8d1f1e?style=for-the-badge&logo=linkedin&logoColor=FFE3F3&color=DE8CB6)(https://www.linkedin.com/in/wendyonyi/)
+[![Static Badge](https://img.shields.io/badge/linkedin-8d1f1e?style=for-the-badge&logo=linkedin&logoColor=FFE3F3&color=DE8CB6)](https://www.linkedin.com/in/wendyonyi/)
+
 
 
 
