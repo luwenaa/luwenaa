@@ -11,4 +11,4 @@ outside of tech: cozy gamer 🎧 → self-care enthusiast 🧖🏾‍♀️ → 
 
 feel free to connect with me! :)
 
-https://img.shields.io/badge/javascript-F7CAE3?style=for-the-badge&logo=javascript&logoColor=FFE3F3&labelColor=00000
+![Static Badge](https://img.shields.io/badge/javascript-F7CAE3?style=for-the-badge&logo=javascript&logoColor=FFE3F3&labelColor=00000)
