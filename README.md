@@ -5,7 +5,7 @@ currently trying to beat the learning curve and master full stack development�
 
 working on building web projects💫, exploring frameworks ✨ while contributing to open source projects 🌸 
 
-currently learning html and css fundamentals, react.js, node.js and web3 with udemy. 
+currently learning html and css fundamentals, react.js, node.js and web3 with udemy. obsessed with visuals, ui's and turning my dev career into a creative outlet.
 
 outside of tech: cozy gamer 🎧 ➜ self-care enthusiast 🧖🏾‍♀️ ➜ pop-culture connoisseur 🌷 … or whatever adhd hyperfixation i am in.
 
