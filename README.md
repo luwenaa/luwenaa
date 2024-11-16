@@ -10,3 +10,5 @@ currently learning html and css fundamentals, react.js, node.js and web3 with ud
 outside of tech: cozy gamer 🎧 → self-care enthusiast 🧖🏾‍♀️ → pop-culture connoisseur 🌷 → or whatever adhd hyperfixation i am in...
 
 feel free to connect with me! :)
+
+https://img.shields.io/badge/javascript-F7CAE3?style=for-the-badge&logo=javascript&logoColor=FFE3F3&labelColor=00000
