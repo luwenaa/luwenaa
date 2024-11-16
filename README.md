@@ -7,6 +7,6 @@ working on building web projects💫, exploring frameworks ✨ while contributin
 
 currently learning html and css fundamentals, react.js, node.js and web3 with udemy. obsessed with creative visuals, aesthetically pleasing ui's and turning my dev career into a creative outlet. 🎨
 
-outside of tech: cozy gamer 🎧 ➜ self-care enthusiast 🧖🏾‍♀️ ➜ pop-culture connoisseur 🌷 … or whatever adhd hyperfixation i am in.
+outside of tech: cozy gamer 🎧 → self-care enthusiast 🧖🏾‍♀️ → pop-culture connoisseur 🌷 → or whatever adhd hyperfixation i am in...
 
 feel free to connect with me! :)
